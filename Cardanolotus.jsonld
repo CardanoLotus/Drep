@@ -51,27 +51,11 @@
       }
     }
   },
-  "authors": [],
-  "hashAlgorithm": {
-    "@value": "blake2b-256"
-  },
+  "hashAlgorithm": "blake2b-256",
   "body": {
-    "doNotList": false,
-    "givenName": {
-      "@value": "Cardanolotus"
-    },
-    "motivations": {
-      "@value": "The reason that I am passionate about Cardano is its core values and principles. It is a blockchain that has maintained its integrity from its inception. Scalability, security and decentralisation are very important principles in blockchain technology and unlike other blockchains who have been succumbed to VCs and BlackRock. I am here because I want to do my part to protect and preserve the Cardano's etho. I am here because I care first and foremost to build a better world and Cardano is my hope to achieve this aspiration."
-    },
-    "objectives": {
-      "@value": "I believe that Cardano can create a better world. As a Drep I want to ensure that any project or proposal has to be aligned with Cardano's core values and principles. "
-    },
-    "paymentAddress": {
-      "@value": ""
-    },
-    "qualifications": {
-      "@value": "My best qualification is that I believe in Cardano and I am very passionate about building a better world where every human being is entitled to basic needs and be regarded as equal. "
-    },
-    "references": []
+    "givenName": "Cardanolotus",
+    "motivations": "I love Cardano because of its unwavering commitment to core values like scalability, security, and decentralization. Unlike other blockchains that have been influenced by VCs and large corporations, Cardano has maintained its integrity. My goal is to protect and preserve Cardano’s ethos, support true decentralization, and ensure governance proposals align with its principles. I am also committed to voting for the right projects and innovations to ensure Cardano operates effectively across all aspects.",
+    "objectives": "I registered as a Drep because I believe every ADA holder has a responsibility to protect and preserve the Cardano blockchain. For on-chain governance to succeed, Cardano needs tens of thousands of Drep to achieve true decentralization. Recognizing that not all ADA holders have the time or capacity to engage deeply with the ecosystem, I am committed to being fully involved, voting on all proposals, and transparently communicating my decisions. Additionally, I will actively share my knowledge of Cardano with the community.",
+    "qualifications": "I am a passionate Cardano supporter who began exploring the blockchain and ecosystem in March 2024. While I've learned a great deal, I am still eager to deepen my knowledge. I dedicate hours each day to studying Cardano and am committed to continuous learning. Although I currently have no formal qualifications, I am determined to contribute positively to Cardano as a Drep. I am fully committed to analyzing all governance actions and voting accordingly."
   }
 }
